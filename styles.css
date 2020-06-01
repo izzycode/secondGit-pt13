@@ -1,0 +1,5 @@
+body {
+  background-color: aqua;
+  border: 5px dotted limegreen;
+  min-height: 96vh;
+}
