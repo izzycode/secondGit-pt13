@@ -4,3 +4,12 @@ body {
   min-height: 96vh;
   font-style: italic;
 }
+
+.circle {
+  border-radius: 50%;
+}
+
+.profile {
+  border: 2px solid #ccc;
+  width: 90vw
+}
