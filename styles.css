@@ -4,14 +4,19 @@ body {
   min-height: 96vh;
   font-style: italic;
 
-  /* top navigation bar */
+/* top navigation bar */
 
-  .topnav {
-    background-color: black;
-    position: fixed;
-    text: white;
+.topnav {
+  background-color: black;
+  position: fixed;
+  text: white;
+}
 
-  }
+.circle {
+  border-radius: 50%;
+}
 
-
+.profile {
+  border: 2px solid #ccc;
+  width: 90vw
 }
