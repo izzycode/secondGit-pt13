@@ -3,6 +3,13 @@ body {
   border: 5px solid #333;
   min-height: 96vh;
   font-style: italic;
+
+/* top navigation bar */
+
+.topnav {
+  background-color: black;
+  position: fixed;
+  text: white;
 }
 
 .circle {
